@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multi_app_name">MultiImageChooser</string>
+    <string name="free_version_label">Versão gratuita. Imagens restantes: %d</string>
+    <string name="error_database">Ocorreu um erro abrindo o banco de dados de imagens.</string>
+    <string name="requesting_thumbnails">Abrindo as miniaturas, aguarde</string>
+    <string name="multi_image_picker_processing_images_title">Processando imagens</string>
+    <string name="multi_image_picker_processing_images_message">Isso pode demorar alguns segundos</string>
+    <string name="multi_image_picker_max_select_files_title">Maximum Photos: </string>
+    <string name="multi_image_picker_max_select_files_message">You can only select < /string>
+    <string name="multi_image_picker_max_select_files_message2"> photos at a time.</string>
+    <string name="multi_image_picker_max_select_files_message">você pode selecionar no máximo< /string>
+    <string name="multi_image_picker_max_select_files_message2"> fotos por vez.</string>
+    <string name="discard" translatable="false">Cancelar</string>
+    <string name="done" translatable="false">OK</string>
+ </resources>
